@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+html{
+  width:100%;
+  Height:100%;
+}
+#Container1{
+  height:750px;
+  background:url('https://thumbs.dreamstime.com/z/rain-happy-child-funny-kid-playing-outdoors-spring-park-49891149.jpg')no-repeat center ;
+}
+#Container2{
+  height:500px;  
+ background-color:orangeRed;
+  color:white;
+}
+#Container3{
+  height:500px; 
+  color:orangeRed; 
+  background:url('https://thumbs.dreamstime.com/z/laptop-white-screen-mock-up-template-office-desk-computer-coffee-cup-pen-pens-54185483.jpg');
+}
+#Container4{
+  height:500px;
+ background-color:lightblue;
+}
+.btn{
+  margin-bottom :10px;
+}
+#SocialMedia{ 
+  margin: 40% 20% 30% 30%; 
+  
+}
+#SocialMedia2{  
+  margin: 20% 20% 20% 30%;
+}
+#workImage{
+  width:100%;
+  height:100%;
+}
+#works{
+  margin:50px 50px 50px 70px;
+  padding:10px;
+ }
+p{
+  margin-top:10px;
+  font-size: 16px;
+}
